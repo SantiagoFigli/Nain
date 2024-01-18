@@ -43,8 +43,7 @@ export const Contact = (props) => {
               <div className="section-title">
                 <h2>Contactanos</h2>
                 <p>
-                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis exercitationem ex deserunt ipsam harum, neque minus quod ad dicta voluptatum.
-                </p>
+                  Dejanos tu consulta sobre lo que quieras saber                </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
@@ -55,7 +54,7 @@ export const Contact = (props) => {
                         id="name"
                         name="name"
                         className="form-control"
-                        placeholder="Name"
+                        placeholder="Nombre"
                         required
                         onChange={handleChange}
                       />
@@ -83,7 +82,7 @@ export const Contact = (props) => {
                     id="message"
                     className="form-control"
                     rows="4"
-                    placeholder="Message"
+                    placeholder="Mensaje"
                     required
                     onChange={handleChange}
                   ></textarea>
@@ -133,13 +132,8 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                    <a href={props.data ? props.data.instagram : "/"}>
+                      <i className="fa fa-instagram"></i>
                     </a>
                   </li>
                 </ul>

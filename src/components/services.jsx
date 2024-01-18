@@ -7,8 +7,8 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Nuestros Servicios</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Hecho con amor, realizamos bolsos, mochilas, riñoneras y todo lo que necesitas para tu día a día.
+          Y para esa ocasión especial.
           </p>
         </div>
         <div className="row">

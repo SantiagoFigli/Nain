@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Nain",
-    "paragraph": "Diseño y confección :)"
+    "paragraph": "Tienda de bolsos"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -20,49 +20,49 @@
   },
   "Gallery": [
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Mochila mujer",
+      "largeImage": "img/mochila-mujer.jpg",
+      "smallImage": "img/mochila-mujer.jpg"
     },
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Mochila mujer",
+      "largeImage": "img/mochila-mujer2.jpg",
+      "smallImage": "img/mochila-mujer2.jpg"
     },
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Mochila mujer",
+      "largeImage": "img/mochila-mujer3.jpg",
+      "smallImage": "img/mochila-mujer3.jpg"
     },
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Mochila mujer con tapa",
+      "largeImage": "img/mochila-marron.jpg",
+      "smallImage": "img/mochila-marron.jpg"
     },
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Mochila mujer con tapa",
+      "largeImage": "img/mochila-marron2.jpg",
+      "smallImage": "img/mochila-marron2.jpg"
     },
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Mochila mujer con tapa",
+      "largeImage": "img/mochila-marron3.jpg",
+      "smallImage": "img/mochila-marron3.jpg"
     },
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Bolso",
+      "largeImage": "img/bolso.jpg",
+      "smallImage": "img/bolso.jpg"
     },
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Bolso",
+      "largeImage": "img/bolso2.jpg",
+      "smallImage": "img/bolso2.jpg"
     },
     {
-      "title": "Product",
-      "largeImage": "img/about.jpg",
-      "smallImage": "img/about.jpg"
+      "title": "Bolso",
+      "largeImage": "img/bolso3.jpg",
+      "smallImage": "img/bolso3.jpg"
     }
   ],
   "Services": [
@@ -84,43 +84,42 @@
   ],
   "Testimonials": [
     {
-      "img": "",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/marina.jpg",
+      "text": "\"Muy lindas cosas, de buena calidad y atencion.\"",
+      "name": "Marina"
     },
     {
-      "img": "",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/graciela.jpg",
+      "text": "\"Muy lindos sus productos.\"",
+      "name": "Graciela"
     },
     {
-      "img": "",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/roberto.jpg",
+      "text": "\"Muy buen surtido y buenos precios. Vale la visita.\"",
+      "name": "Roberto"
     },
     {
-      "img": "",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/guille.jpg",
+      "text": "\"Que lindo es ir a comprar a un lugar dónde te atienden tan bien!!!.\"",
+      "name": "Guille"
     },
     {
-      "img": "",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/laura.jpg",
+      "text": "\"Soy clienta. Me encanta como atienden. Muy amables, hermosos productos y muy buenos precios. Calidad muy durable.\"",
+      "name": "Laura"
     },
     {
-      "img": "",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/evelina.jpg",
+      "text": "\"Excelente relación precio y calidad. Muy buena atencion.\"",
+      "name": "Evelina"
     }
   ],
   "Contact": {
-    "address": "lorem ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Mar del Plata, Buenos Aires, Argentina",
+    "phone": "+54 223 622-2953",
+    "email": "selmary3568@gmail.com",
+    "facebook": "https://www.facebook.com/tiendatuopcion",
+    "instagram": "https://www.instagram.com/naintiendade" 
   },
   "Features": [
     {
