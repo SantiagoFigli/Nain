@@ -1,69 +1,294 @@
 {
   "Header": {
-    "title": "Nain",
-    "paragraph": "Tienda de bolsos"
+    "title": "",
+    "paragraph": ""
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Con origen en la ciudad de Mar del Plata NAIN surge para dar respuesta a la demanda de productos personalizados. Realizamos bolsos, mochilas, riñoneras y todo lo que necesitas para tu día a día y para esa ocasión especial.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Productos personalizados",
+      "Rapidez de entrega",
+      "Ultimas tendencias",
+      "Mejor relacion precio-calidad"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Variedad de modelos",
+      "Productos funcionales",
+      "Garantia de satisfaccion"
     ]
   },
   "Gallery": [
     {
-      "title": "Mochila mujer",
-      "largeImage": "img/mochila-mujer.jpg",
-      "smallImage": "img/mochila-mujer.jpg"
+      "title": "Set Matero",
+      "largeImage": "img/materos1.jpg",
+      "smallImage": "img/materos1.jpg"
     },
     {
-      "title": "Mochila mujer",
-      "largeImage": "img/mochila-mujer2.jpg",
-      "smallImage": "img/mochila-mujer2.jpg"
+      "title": "Set Matero",
+      "largeImage": "img/materos2.jpg",
+      "smallImage": "img/materos2.jpg"
     },
     {
-      "title": "Mochila mujer",
-      "largeImage": "img/mochila-mujer3.jpg",
-      "smallImage": "img/mochila-mujer3.jpg"
+      "title": "Set Matero",
+      "largeImage": "img/materos3.jpg",
+      "smallImage": "img/materos3.jpg"
     },
     {
-      "title": "Mochila mujer con tapa",
-      "largeImage": "img/mochila-marron.jpg",
-      "smallImage": "img/mochila-marron.jpg"
+      "title": "Set Matero",
+      "largeImage": "img/materos4.jpg",
+      "smallImage": "img/materos4.jpg"
     },
     {
-      "title": "Mochila mujer con tapa",
-      "largeImage": "img/mochila-marron2.jpg",
-      "smallImage": "img/mochila-marron2.jpg"
+      "title": "Set Matero",
+      "largeImage": "img/materos5.jpg",
+      "smallImage": "img/materos5.jpg"
     },
     {
-      "title": "Mochila mujer con tapa",
-      "largeImage": "img/mochila-marron3.jpg",
-      "smallImage": "img/mochila-marron3.jpg"
+      "title": "Set Matero",
+      "largeImage": "img/materos6.jpg",
+      "smallImage": "img/materos6.jpg"
     },
     {
-      "title": "Bolso",
-      "largeImage": "img/bolso.jpg",
-      "smallImage": "img/bolso.jpg"
+      "title": "Mochilas",
+      "largeImage": "img/mochilas1.jpg",
+      "smallImage": "img/mochilas1.jpg"
     },
     {
-      "title": "Bolso",
+      "title": "Mochilas",
+      "largeImage": "img/mochilas3.jpg",
+      "smallImage": "img/mochilas3.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas2.jpg",
+      "smallImage": "img/mochilas2.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas4.jpg",
+      "smallImage": "img/mochilas4.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas5.jpg",
+      "smallImage": "img/mochilas5.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas6.jpg",
+      "smallImage": "img/mochilas6.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas7.jpg",
+      "smallImage": "img/mochilas7.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas8.jpg",
+      "smallImage": "img/mochilas8.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas9.jpg",
+      "smallImage": "img/mochilas9.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas10.jpg",
+      "smallImage": "img/mochilas10.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas11.jpg",
+      "smallImage": "img/mochilas11.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas12.jpg",
+      "smallImage": "img/mochilas12.jpg"
+    },
+    {
+      "title": "Mochilas",
+      "largeImage": "img/mochilas13.jpg",
+      "smallImage": "img/mochilas13.jpg"
+    },
+    {
+      "title": "Bandoleras",
+      "largeImage": "img/bandolera1.jpg",
+      "smallImage": "img/bandolera1.jpg"
+    },
+    {
+      "title": "Bandoleras",
+      "largeImage": "img/bandolera2.jpg",
+      "smallImage": "img/bandolera2.jpg"
+    },
+    {
+      "title": "Bandoleras",
+      "largeImage": "img/bandolera3.jpg",
+      "smallImage": "img/bandolera3.jpg"
+    },
+    {
+      "title": "Bolso de Viaje",
+      "largeImage": "img/bolsodeviaje1.jpg",
+      "smallImage": "img/bolsodeviaje1.jpg"
+    },
+    {
+      "title": "Bolso de Viaje",
+      "largeImage": "img/bolsodeviaje2.jpg",
+      "smallImage": "img/bolsodeviaje2.jpg"
+    },
+    {
+      "title": "Morral",
+      "largeImage": "img/morral1.jpg",
+      "smallImage": "img/morral1.jpg"
+    },
+    {
+      "title": "Neceser",
+      "largeImage": "img/neceser1.jpg",
+      "smallImage": "img/neceser1.jpg"
+    },
+    {
+      "title": "Neceser",
+      "largeImage": "img/neceser2.jpg",
+      "smallImage": "img/neceser2.jpg"
+    },
+    {
+      "title": "Neceser",
+      "largeImage": "img/neceser3.jpg",
+      "smallImage": "img/neceser3.jpg"
+    },
+    {
+      "title": "Neceser",
+      "largeImage": "img/neceser4.jpg",
+      "smallImage": "img/neceser4.jpg"
+    },
+    {
+      "title": "Neceser",
+      "largeImage": "img/neceser5.jpg",
+      "smallImage": "img/neceser5.jpg"
+    },
+    {
+      "title": "Neceser",
+      "largeImage": "img/neceser6.jpg",
+      "smallImage": "img/neceser6.jpg"
+    },
+    {
+      "title": "Bolsos",
+      "largeImage": "img/bolso1.jpg",
+      "smallImage": "img/bolso1.jpg"
+    },
+    {
+      "title": "Bolsos",
       "largeImage": "img/bolso2.jpg",
       "smallImage": "img/bolso2.jpg"
     },
     {
-      "title": "Bolso",
+      "title": "Bolsos",
       "largeImage": "img/bolso3.jpg",
       "smallImage": "img/bolso3.jpg"
+    },
+    {
+      "title": "Bolsos",
+      "largeImage": "img/bolso4.jpg",
+      "smallImage": "img/bolso4.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera1.jpg",
+      "smallImage": "img/riñonera1.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera2.jpg",
+      "smallImage": "img/riñonera2.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera3.jpg",
+      "smallImage": "img/riñonera3.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera4.jpg",
+      "smallImage": "img/riñonera4.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera5.jpg",
+      "smallImage": "img/riñonera5.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera6.jpg",
+      "smallImage": "img/riñonera6.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera7.jpg",
+      "smallImage": "img/riñonera7.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera8.jpg",
+      "smallImage": "img/riñonera8.jpg"
+    },
+    {
+      "title": "Riñoneras",
+      "largeImage": "img/riñonera9.jpg",
+      "smallImage": "img/riñonera9.jpg"
+    },
+    {
+      "title": "Cartuchera organizadora",
+      "largeImage": "img/cartuorg1.jpg",
+      "smallImage": "img/cartuorg1.jpg"
+    },
+    {
+      "title": "Cartuchera organizadora",
+      "largeImage": "img/cartuorg2.jpg",
+      "smallImage": "img/cartuorg2.jpg"
+    },
+    {
+      "title": "Cartuchera organizadora",
+      "largeImage": "img/cartuorg3.jpg",
+      "smallImage": "img/cartuorg3.jpg"
+    },
+    {
+      "title": "Cartuchera organizadora",
+      "largeImage": "img/cartuorg4.jpg",
+      "smallImage": "img/cartuorg4.jpg"
+    },
+    {
+      "title": "Portacelular",
+      "largeImage": "img/portacelular1.jpg",
+      "smallImage": "img/portacelular1.jpg"
+    },
+    {
+      "title": "Portacelular",
+      "largeImage": "img/portacelular2.jpg",
+      "smallImage": "img/portacelular2.jpg"
+    },
+    {
+      "title": "Portacelular",
+      "largeImage": "img/portacelular3.jpg",
+      "smallImage": "img/portacelular3.jpg"
+    },
+    {
+      "title": "Portacelular",
+      "largeImage": "img/portacelular4.jpg",
+      "smallImage": "img/portacelular4.jpg"
+    },
+    {
+      "title": "Portacelular",
+      "largeImage": "img/portacelular5.jpg",
+      "smallImage": "img/portacelular5.jpg"
+    },
+    {
+      "title": "Portacelular",
+      "largeImage": "img/portacelular6.jpg",
+      "smallImage": "img/portacelular6.jpg"
     }
+
   ],
   "Services": [
     {
