@@ -292,49 +292,49 @@
   ],
   "Services": [
     {
-      "icon": "TfiGift",
+      "icon": "fa fa-gratipay",
       "name": " Descubre tu Estilo en NAIN",
       "text": "¡Bienvenido a NAIN, tu destino para bolsos exclusivos y personalizados! En nuestra tienda, tú eres el diseñador, eligiendo formas, colores y estampados para crear un bolso único que refleje tu estilo. En NAIN, te ofrecemos la libertad de expresar tu personalidad a través de accesorios que se adaptan a ti. Descubre cómo puedes dar vida a tu estilo único en cada diseño."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-gift",
       "name": "Fusionamos Creatividad y Artesanía en Cada Bolso",
       "text": "En NAIN, fusionamos la creatividad con la artesanía para ofrecerte accesorios que no solo son funcionales, sino también una expresión auténtica de tu personalidad. Cada bolso es más que un accesorio; es una obra de arte diseñada para resaltar tu individualidad. Descubre cómo nuestro compromiso con la calidad y la creatividad se refleja en cada detalle de nuestros exclusivos bolsos personalizados."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-bullhorn",
       "name": "Explora el Universo de NAIN en Línea",
       "text": "Descubre la emoción de llevar un bolso que cuenta tu historia en NAIN. ¡Explora nuestra tienda ahora y comienza a diseñar el bolso perfecto que te acompañará en todas tus aventuras! La experiencia de compra se convierte en un viaje personalizado donde cada clic te acerca a tu accesorio ideal. Descubre la comodidad de comprar bolsos exclusivos en línea y da vida a tu estilo desde la comodidad de tu hogar."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/marina.jpg",
+      "img": "img/man.jpg",
       "text": "\"Muy lindas cosas, de buena calidad y atencion.\"",
       "name": "Marina"
     },
     {
-      "img": "img/graciela.jpg",
+      "img": "img/man.jpg",
       "text": "\"Muy lindos sus productos.\"",
       "name": "Graciela"
     },
     {
-      "img": "img/roberto.jpg",
+      "img": "img/man.jpg",
       "text": "\"Muy buen surtido y buenos precios. Vale la visita.\"",
       "name": "Roberto"
     },
     {
-      "img": "img/guille.jpg",
+      "img": "img/man.jpg",
       "text": "\"Que lindo es ir a comprar a un lugar dónde te atienden tan bien!!!.\"",
       "name": "Guille"
     },
     {
-      "img": "img/laura.jpg",
+      "img": "img/man.jpg",
       "text": "\"Soy clienta. Me encanta como atienden. Muy amables, hermosos productos y muy buenos precios. Calidad muy durable.\"",
       "name": "Laura"
     },
     {
-      "img": "img/evelina.jpg",
+      "img": "img/man.jpg",
       "text": "\"Excelente relación precio y calidad. Muy buena atencion.\"",
       "name": "Evelina"
     }
@@ -349,23 +349,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Chatea con nosotros",
+      "text": "Desde cualquiera de nuestras redes sociales podes consultar sobre nuestros productos"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Comenta tu experiencia",
+      "text": "Siempre estamos abiertos a saber las opiniones de nuestros clientes para saber como mejorar continuamente"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Somos un emprendimiento activo",
+      "text": "Creamos experiencias increibles para los clientes con nuestros productos"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "La calidad es magica",
+      "text": "Utilizamos materiales de alta calidad en todos nuestros productos consiguiendo una alta durabilidad"
     }
   ]
 }
